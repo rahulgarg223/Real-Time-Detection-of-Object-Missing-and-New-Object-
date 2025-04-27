@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Real-Time Object Tracking System
 
 This project implements a real-time video analytics pipeline that can detect:
@@ -56,5 +55,3 @@ You can modify the following parameters in the code:
 - `conf_threshold`: Adjust detection confidence threshold (default: 0.5)
 - Video source: Change `VideoCapture(0)` to use a different camera or video file 
 =======
-# Real-Time-Detection-of-Object-Missing-and-New-Object-
->>>>>>> 3914a48a91f613d74f0dd77fb4ccef548378586a
