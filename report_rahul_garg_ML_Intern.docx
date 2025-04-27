@@ -1,0 +1,33 @@
+Real-time Object Detection and Tracking System
+Report by Rahul Garg
+
+1. Performance Metrics
+- FPS Achieved: [Your FPS value]
+- Average Processing Time per Frame: [Time in ms]
+- Maximum Objects Tracked Simultaneously: [Number]
+
+2. Hardware Configuration
+- CPU: [Your CPU model]
+- GPU: [Your GPU model - Integrated/Dedicated]
+- RAM: [Your RAM size]
+- Operating System: Windows 10
+
+3. System Architecture and Optimizations
+- Model Used: YOLOv8n
+- Tracking Algorithm: [Details of tracking implementation]
+- Optimizations Implemented:
+  * [List your optimizations]
+  * [Any specific techniques used]
+
+4. Sample Output
+[Add screenshots of your output frames here]
+
+5. Video Demonstration
+[Link to output video]
+
+6. Future Improvements
+- [List potential improvements]
+- [Areas for optimization]
+
+7. Conclusion
+[Your conclusion about the project] 
